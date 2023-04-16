@@ -21,6 +21,8 @@ dependencies:
   - certifi=2022.12.7=pyhd8ed1ab_0
   - cffi=1.15.1=py39h7e6b969_3
   - charset-normalizer=3.1.0=pyhd8ed1ab_0
+  - click=8.1.3=unix_pyhd8ed1ab_2
+  - colorama=0.4.6=pyhd8ed1ab_0
   - comm=0.1.3=pyhd8ed1ab_0
   - contourpy=1.0.7=py39haaf3ac1_0
   - cryptography=40.0.2=py39he2a39a8_0
@@ -93,6 +95,7 @@ dependencies:
   - nbformat=5.8.0=pyhd8ed1ab_0
   - ncurses=6.3=h07bb92c_1
   - nest-asyncio=1.5.6=pyhd8ed1ab_0
+  - nltk=3.8.1=pyhd8ed1ab_0
   - notebook=6.5.4=pyha770c72_0
   - notebook-shim=0.2.2=pyhd8ed1ab_0
   - numpy=1.24.2=py39hff61c6a_0
@@ -134,6 +137,7 @@ dependencies:
   - pyyaml=6.0=py39h02fc5c5_5
   - pyzmq=25.0.2=py39h0553236_0
   - readline=8.2=h92ec313_1
+  - regex=2023.3.23=py39h02fc5c5_0
   - requests=2.28.2=pyhd8ed1ab_1
   - rfc3339-validator=0.1.4=pyhd8ed1ab_0
   - rfc3986-validator=0.1.1=pyh9f0ad1d_0
@@ -153,6 +157,7 @@ dependencies:
   - tinycss2=1.2.1=pyhd8ed1ab_0
   - tk=8.6.12=he1e0b03_0
   - tornado=6.2=py39h02fc5c5_1
+  - tqdm=4.65.0=pyhd8ed1ab_1
   - traitlets=5.9.0=pyhd8ed1ab_0
   - typing-extensions=4.5.0=hd8ed1ab_0
   - typing_extensions=4.5.0=pyha770c72_0
